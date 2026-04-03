@@ -1,9 +1,6 @@
-# python-fundamentals
-Notes and homework from my Python course, covering basic concepts, data types, loops, functions, and more.
-
 # Python Fundamentals
 
-This repository contains my notes and homework from the Python Fundamentals course in Data Analytics.
+This repository contains my notes and homework from the Python course in Data Analytics.
 
 ## Contents
 - `notes/` : Jupyter notebooks with detailed explanations and examples.
